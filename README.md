@@ -5,6 +5,7 @@
 нужно установить pycrypto
 при помощи команды pip install pycrypto или pipwin install pycrypto
 запустить код
+Если не запускается, запустите по ссылке https://colab.research.google.com/drive/1Ib3ahRxRuS8K_Vn1nI_OTXazpRqwpbDX?usp=sharing
 
 * task2:
 нужно установить jdk на компьютер(тестировалось на 11 jdk - рекомендуется, по идее должно работать на версиях 1.8+)
