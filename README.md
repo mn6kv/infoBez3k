@@ -12,3 +12,4 @@
 запустить код
 
 * lab1: https://docs.google.com/document/d/11Oqc8XwcVKUiNswaze9IM7nFFxsPyFVfuTxitdYAgyw/edit?usp=sharing
+* lab5: https://docs.google.com/document/d/15dQtcSUTt1yHzVyWn7iDPjprCd-VuBM8Cpe5TSkzURM/edit?usp=sharing
